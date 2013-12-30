@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">DashClock Reddit TIL</string>
+    <string name="extension_title">Today I Learned</string>
+    <string name="extension_description">Learn something new everyday</string>
+
+</resources>
